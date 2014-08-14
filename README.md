@@ -18,6 +18,7 @@ then just `npm start` in the future
 
 
 To make a new branch:
+
 `git checkout -b feature/feature-name`
 
 `git push -u origin feature/feature-name`
