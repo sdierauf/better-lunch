@@ -31,3 +31,5 @@ Bootstrap is installed, check out http://getbootstrap.com/css/ for cheatcodes
 
 # STEFAN ONLY
 to push to rhcloud, `git push openshift` on **Zeus**
+
+openshift repo incase Zeus dies: `ssh://53ed12d550044601bb0004f9@lunches-simplymeasured.rhcloud.com/~/git/lunches.git/`
