@@ -1,0 +1,22 @@
+extends layout
+
+block content
+    .container
+        .row.col-sm-12
+        h1= title
+        .row.col-sm-12
+        form.form-horizontal(role='form')
+            .form-group
+                label.col-sm-2.control-label(for='inputName')
+                    | Lunch name
+                .col-sm-10
+                    input.form-control#inputName(type='text',  placeholder='Name:')
+            .form-group
+                label.col-sm-2.control-label(for='inputMenu')
+                    | Menu:
+                .col-sm-10
+                    textarea.form-control#inputMenu(rows='8', placeholder='Menu: (press enter for each item)')
+        .col-sm-offset-2.col-sm-10
+            button.btn.btn-default#addlunch
+                | Submit
+    script(src='javascripts/add_lunch.js')
