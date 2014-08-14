@@ -1,0 +1,16 @@
+extends layout
+
+block content
+    .container
+        .row.col-sm-12
+        h1.bg-danger= title
+        br
+        br
+        br
+        .row.col-sm-12
+            button.btn.btn-danger#DANGER
+                | Clean the lunches?
+        .row.col-sm-10
+            p#noooo
+
+    script(src='javascripts/clean_up.js')
