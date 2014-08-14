@@ -26,7 +26,7 @@ router.post('/add', function(req, res) {
         console.log(req.body);
         obj.lunches.push(req.body);
 
-        fs.writeFile(LUNCHES_PATH, JSON.stringify(obj), function(error) {
+        fs.writeFile(LUNCHES_PATH, JSON.stringify(obj, null, 4), function(error) {
             if (err) {
                 res.send(500)
             }
