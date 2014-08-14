@@ -27,14 +27,45 @@ router.post('/add', function(req, res) {
         obj.lunches.push(req.body);
 
         fs.writeFile(LUNCHES_PATH, JSON.stringify(obj, null, 4), function(error) {
-            if (err) {
+            if (error) {
                 res.send(500)
             }
             res.send(200);
         });
         console.log(req);
     });
-})
+});
+
+router.get('/clean', function(req, res) {
+    res.render('clean', { title: 'DANGER DANGER DANGER' });
+});
+
+router.post('/clean', function(req, res) {
+    console.log('so fresh so clean');
+    if (req.body.command == 'obliterate') {
+        var overwriteContents = {
+            lunches: [
+                {
+                    title: "Lunch for the basics",
+                    menu: [
+                        "kale"
+                    ]
+                }
+            ]
+        };
+        fs.writeFile(LUNCHES_PATH, JSON.stringify(overwriteContents, null, 4), function(error) {
+            if (error) {
+                console.log('there was an error?');
+                console.log(error);
+                res.send(500);
+            }
+            res.send(200);
+        });
+    }
+    req.send(403);
+});
+
+
 
 router.get('/lunches', function(req, res) {
     // res.setHeader('Content-type', 'application/json');
