@@ -18,7 +18,7 @@ h1 {
   text-transform: uppercase;
   text-shadow: -3px 2px 5px rgba(150, 150, 150, 1);
 }
-h3 {
+h2 {
   font-size: 1.1em;
   font-family: "proxima-nova", "helvetica neue", helvetica, arial, geneva, sans-serif;
   font-weight: normal;
@@ -28,6 +28,21 @@ h3 {
   text-transform: uppercase;
   text-shadow: -3px 2px 5px rgba(150, 150, 150, 1);
   
+}
+h3{
+  font-size: 2.0em;
+  font-family: "proxima-nova", "helvetica neue", helvetica, arial, geneva, sans-serif;
+  font-weight: normal;
+  color: white;
+  letter-spacing: 6px;
+  text-align: center;
+  text-transform: uppercase;
+  text-shadow: -3px 2px 5px rgba(150, 150, 150, 1);
+  margin-top: 50px;
+}
+
+.lunches p{
+
 }
 
 .suggestions {
@@ -55,12 +70,3 @@ h3 {
   color: #fff;
 }
 
-.lunches p{
-    color: white;
-    padding-top: 20px;
-    font-family: "proxima-nova", "helvetica neue", helvetica, arial, geneva, sans-serif;
-    font-size: 20px;
-    text-transform: uppercase;
-    letter-spacing: 3px;
-
-}
