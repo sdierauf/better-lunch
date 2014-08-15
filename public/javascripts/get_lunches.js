@@ -31,11 +31,11 @@
     }
 
     function buildLunchMenu(menu) {
-        var lunchMenu = document.createElement('ul');
+        var lunchMenu = document.createElement('div');
         for (var i = 0; i < menu.length; i++) {
-            var li = document.createElement('li');
-            li.innerHTML = menu[i];
-            lunchMenu.appendChild(li);
+            var p = document.createElement('p');
+            p.innerHTML = menu[i];
+            lunchMenu.appendChild(p);
         }
         return lunchMenu;
     }
