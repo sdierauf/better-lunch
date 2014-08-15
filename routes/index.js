@@ -7,7 +7,7 @@ var LUNCHES_PATH = path.join(__dirname, '../api/lunches.json')
 
 /* GET home page. */
 router.get('/', function(req, res) {
-    res.render('index', { title: 'SM lunches' });
+    res.render('index', { title: 'Tuesday Lunch' });
 });
 
 router.get('/add', function(req, res) {
