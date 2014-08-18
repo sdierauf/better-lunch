@@ -7,7 +7,7 @@ var LUNCHES_PATH = path.join(__dirname, '../api/lunches.json')
 
 /* GET home page. */
 router.get('/', function(req, res) {
-    res.render('index', { title: 'SM lunches' });
+    res.render('index', { title: 'Tuesday Lunch' });
 });
 
 router.get('/add', function(req, res) {
@@ -44,14 +44,7 @@ router.post('/clean', function(req, res) {
     console.log('so fresh so clean');
     if (req.body.command == 'obliterate') {
         var overwriteContents = {
-            lunches: [
-                {
-                    title: "Lunch for the basics",
-                    menu: [
-                        "kale"
-                    ]
-                }
-            ]
+            lunches: []
         };
         fs.writeFile(LUNCHES_PATH, JSON.stringify(overwriteContents, null, 4), function(error) {
             if (error) {

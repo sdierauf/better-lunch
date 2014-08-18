@@ -1,9 +1,14 @@
 {
     "lunches": [
         {
-            "title": "Lunch for the basics",
+            "title": "8/16: Cactus",
             "menu": [
-                "kale"
+                "Guacamole, Chips & Salsa",
+                "Casa Salad",
+                "Rice & Beans",
+                "Chimayo Enchiladas",
+                "Butternut Squash Enchiladas",
+                "Chili-Braised Brisket Enchiladas"
             ]
         }
     ]
