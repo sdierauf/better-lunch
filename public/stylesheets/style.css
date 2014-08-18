@@ -6,6 +6,7 @@ body {
 img {
     display: block;
     margin: 0 auto;
+    margin-top: -35px;
 }
 
 h1 {
@@ -26,24 +27,29 @@ h2 {
   letter-spacing: 6px;
   text-align: center;
   text-transform: uppercase;
-  text-shadow: -3px 2px 5px rgba(150, 150, 150, 1);
+  text-shadow: -3px 2px 5px rgba(150, 150, 150, .7);
+
   
 }
 h3{
   font-size: 2.0em;
   font-family: "proxima-nova", "helvetica neue", helvetica, arial, geneva, sans-serif;
   font-weight: normal;
-  color: white;
+  color:white;
   letter-spacing: 6px;
   text-align: center;
   text-transform: uppercase;
-  text-shadow: -3px 2px 5px rgba(150, 150, 150, 1);
+  text-decoration: underline;
   margin-top: 50px;
+  
 }
-
 .lunches p{
+  color:#DEDEDE;
+  font-family: "proxima-nova", "helvetica neue", helvetica, arial, geneva, sans-serif;
+  letter-spacing: 1px;
 
 }
+
 
 .suggestions {
   float: right;
