@@ -61,6 +61,8 @@ router.post('/clean', function(req, res) {
 
 
 router.get('/lunches', function(req, res) {
+    res.header("Access-Control-Allow-Origin", "*");
+    res.header("Access-Control-Allow-Headers", "X-Requested-With");
     // res.setHeader('Content-type', 'application/json');
     fs.readFile(LUNCHES_PATH, 'utf8', function(err, data) {
         if (err) {
