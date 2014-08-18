@@ -44,14 +44,7 @@ router.post('/clean', function(req, res) {
     console.log('so fresh so clean');
     if (req.body.command == 'obliterate') {
         var overwriteContents = {
-            lunches: [
-                {
-                    title: "Lunch for the basics",
-                    menu: [
-                        "kale"
-                    ]
-                }
-            ]
+            lunches: []
         };
         fs.writeFile(LUNCHES_PATH, JSON.stringify(overwriteContents, null, 4), function(error) {
             if (error) {
