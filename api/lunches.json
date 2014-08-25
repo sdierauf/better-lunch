@@ -10,6 +10,17 @@
                 "Butternut Squash Enchiladas",
                 "Chili-Braised Brisket Enchiladas"
             ]
+        },
+        {
+            "title": "8/26 Other Coast Cafe",
+            "menu": [
+                "Sandwich Platters:",
+                "Turkey, Italiano, Diana",
+                "Bullet, Chicken Salad, Please No Meat",
+                "Salads:",
+                "Kale, Wheatberry, Watermelon",
+                "<a href= \"http://othercoastcafe.com/Menu.htm\">Other Coast Menu</a>"
+            ]
         }
     ]
 }
