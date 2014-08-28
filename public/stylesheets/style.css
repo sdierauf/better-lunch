@@ -1,3 +1,8 @@
+@import url(http://fonts.googleapis.com/css?family=Give+You+Glory);
+@import url(http://fonts.googleapis.com/css?family=Short+Stack);
+@import url(http://fonts.googleapis.com/css?family=Patrick+Hand);
+@import url(http://fonts.googleapis.com/css?family=Delius);
+
 body {
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4H_hC2JER_-Papob9oY9HyOEA79b-MU5XQYZL7jWzMAN_iqlT);
     background-size: cover;
@@ -10,45 +15,63 @@ img {
 }
 
 h1 {
-  font-family: "proxima-nova", "helvetica neue", helvetica, arial, geneva, sans-serif;
+  font-family: "Delius", helvetica, arial, geneva, sans-serif;
   font-size: 2.625em;
   color: white;
   letter-spacing: 6px;
   text-align: center;
   margin-top: 0px;
   text-transform: uppercase;
-  text-shadow: -3px 2px 5px rgba(150, 150, 150, 1);
+  text-shadow: -3px 2px 5px rgba(129, 129, 130,1);
 }
 h2 {
   font-size: 1.1em;
-  font-family: "proxima-nova", "helvetica neue", helvetica, arial, geneva, sans-serif;
+  font-family: "Delius", helvetica, arial, geneva, sans-serif;
   font-weight: normal;
   color: white;
   letter-spacing: 6px;
   text-align: center;
   text-transform: uppercase;
-  text-shadow: -3px 2px 5px rgba(150, 150, 150, .7);
+  text-shadow: -3px 2px 5px rgba(87, 87, 87, 1);
 
   
 }
 h3{
   font-size: 2.0em;
-  font-family: "proxima-nova", "helvetica neue", helvetica, arial, geneva, sans-serif;
+  font-family: "Delius", helvetica, arial, geneva, sans-serif;
   font-weight: normal;
   color:white;
-  letter-spacing: 6px;
+  letter-spacing: 3px;
   text-align: center;
-  text-transform: uppercase;
   text-decoration: underline;
   margin-top: 50px;
+  text-shadow: -3px 2px 5px rgba(129, 129, 130, 1);
   
 }
+a{
+  color: black;
+}
+a:hover{
+  color:#EB1B71;
+
+}
 .lunches p{
-  color:#DEDEDE;
+  color:#000000;
   font-family: "proxima-nova", "helvetica neue", helvetica, arial, geneva, sans-serif;
   letter-spacing: 1px;
 
 }
+.lunches{
+  width: 800px;
+  height: auto;
+  display:block;
+  background-color: rgba(214, 214, 214, 0.2);
+  margin: 25px auto 100px auto;
+  padding-top: 1px;
+  padding-bottom: 50px;
+  
+
+ }
 
 
 .suggestions {
