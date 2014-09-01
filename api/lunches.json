@@ -21,7 +21,18 @@
                 "Kale, Wheatberry, Watermelon",
                 "<a href= \"http://othercoastcafe.com/Menu.htm\">Other Coast Menu</a>"
             ]
-            
+        },
+        {
+            "title": "9/2 Hole in the Wall BBQ",
+            "menu": [
+                "Smoked & Sliced Turkey Breast",
+                "Texas Smoked & Sliced Beef Brisket ",
+                "Black Bean patties for vegetarians",
+                "Baked Beans",
+                "Potato Salad",
+                "Cole Slaw",
+                "<a href=\"http://holeinthewallbbq.blogspot.com/\">Menu</a>"
+            ]
         }
     ]
 }
