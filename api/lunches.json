@@ -44,6 +44,17 @@
                 "Steamed Bok Choy ",
                 "Vegetable Pancit"
             ]
+        },
+        {
+            "title": "9/23 La Isla (Puerto Rican)",
+            "menu": [
+                "Pernil (Pork Shoulder)",
+                "Veggie Pastelon (Puerto Rican style Lasagna)",
+                "Rice",
+                "Beans",
+                "Ensalada",
+                "<a href=\"http://laislacuisine.com/menus-la-isla-cuisine/\">Menu</a>"
+            ]
         }
     ]
 }
