@@ -55,6 +55,20 @@
                 "Ensalada",
                 "<a href=\"http://laislacuisine.com/menus-la-isla-cuisine/\">Menu</a>"
             ]
+        },
+        {
+            "title": "9/30 Michou",
+            "menu": [
+                "Sandwiches: (Chicken, Turkey/Bacon, Roast Beef, Italian, Tomato/Brie, Portabello, ABBLT)",
+                "Salads: (Turkish, Chef, Spicy Chicken)",
+                "Asian Broccoli",
+                "Greek Quinoa",
+                "Penne Pesto",
+                "Beets",
+                "Avocado Chicken Salad",
+                "<a href=\"http://www.michoudeli.com/wp-content/uploads/2012/09/Michou-Menu-Brochure-Master.pdf\">Menu</a>",
+                ""
+            ]
         }
     ]
 }
