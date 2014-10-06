@@ -50,6 +50,7 @@
         };
 
         return text.replace(/[&<>"']/g, function(m) { return map[m]; });
+        
 }
 
     init();
