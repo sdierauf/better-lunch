@@ -87,6 +87,19 @@
                 "- Antipasti platters",
                 "- Dolma"
             ]
+        },
+        {
+            "title": "10/14 El Camion",
+            "menu": [
+                "Taco Bar:",
+                "Pollo Asado",
+                "Carne Asada",
+                "Seasoned Pork",
+                "Fish",
+                "Veggie",
+                "",
+                "Rice and Beans"
+            ]
         }
     ]
 }
