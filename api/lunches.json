@@ -111,6 +111,25 @@
                 "Whiskey glazed carrots",
                 "Baby kale salad"
             ]
+        },
+        {
+            "title": "10/28 Pane Pane Sandwiches",
+            "menu": [
+                "<b>Sandwiches:</b>",
+                "Smoked Ham and Cheddar",
+                "Genoa Salami and Provolone",
+                "Curried Egg Salad",
+                "Roast Beef and Wasabi Coleslaw",
+                "Salami, Pepperoni and Pesto",
+                "Bacon and Turkey",
+                "Feta, Red Pepper and Spinach",
+                "Artichoke, Feta and Pesto",
+                "<b>Salads:</b>",
+                "Spinach, red pepper and feta",
+                "Prosciutto",
+                "Turkey, Bacon",
+                "<a href= \"http://panepanesandwiches.com/\">Menu</a>"
+            ]
         }
     ]
 }
