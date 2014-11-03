@@ -130,6 +130,18 @@
                 "Turkey, Bacon",
                 "<a href= \"http://panepanesandwiches.com/\">Menu</a>"
             ]
+        },
+        {
+            "title": "11/4 Island Soul",
+            "menu": [
+                "Sweet Plantains",
+                "BBQ Pork Ribs",
+                "Curried Chicken",
+                "Rice and Peas",
+                "Collard Greens",
+                "Smashed Yams",
+                "Coconut Corn Muffins"
+            ]
         }
     ]
 }
