@@ -195,6 +195,15 @@
                 "Chocolate Chip Cookie ",
                 "Potato Chips"
             ]
+        },
+        {
+            "title": "12/2 Tat's Delicatessen",
+            "menu": [
+                "Hot Beef, Chicken and Pastrami Cheesteak Bar",
+                "Cold Turkey sandwiches",
+                "Veggies",
+                "Salad"
+            ]
         }
     ]
 }
