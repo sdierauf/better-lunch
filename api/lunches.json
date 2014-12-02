@@ -176,6 +176,25 @@
                 "My Skinny Little Greek ",
                 "<a href=\"http://www.evergreens-salad.com/menu-1/\">Menu</a>"
             ]
+        },
+        {
+            "title": "12/2 Homegrown",
+            "menu": [
+                "Ham + Beecher's",
+                "Chicken Pesto ",
+                "Hummus + Roasted Red Peppers ",
+                "Turkey Bacon and Avocado",
+                "Turkey Cranberry ",
+                "Smoked Pastrami ",
+                "Portobello + Goat Cheese ",
+                "Roast Beef + Swiss",
+                "Sonora Salad Bowl",
+                "Greek Salad Bowl",
+                "Roast Beet + Apple Salad Bowl",
+                "Chicken Cobb Salad Bowl",
+                "Chocolate Chip Cookie ",
+                "Potato Chips"
+            ]
         }
     ]
 }
