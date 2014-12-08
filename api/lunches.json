@@ -204,6 +204,17 @@
                 "Veggies",
                 "Salad"
             ]
+        },
+        {
+            "title": "12/9 Bitterroot BBQ",
+            "menu": [
+                "Pulled Pork",
+                "Braised Beef Brisket",
+                "Baked Mac 'n Cheese",
+                "Coleslaw",
+                "Glazed Carrots",
+                "Cornbread"
+            ]
         }
     ]
 }
