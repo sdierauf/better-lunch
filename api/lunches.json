@@ -251,6 +251,18 @@
                 "Salsas, pico de gallo, guacamole & chips",
                 "Lettuce, Queso Fresco"
             ]
+        },
+        {
+            "title": "1/6 Chuck's Hole in the Wall BBQ",
+            "menu": [
+                "Smoked & Sliced Turkey Breast",
+                "Texas Smoked & Sliced Beef Brisket",
+                "Black Bean patties for vegetarians",
+                "Baked Beans",
+                "Potato Salad",
+                "Cole Slaw",
+                "Cornbread"
+            ]
         }
     ]
 }
