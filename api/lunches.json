@@ -283,6 +283,22 @@
                 "Beet Salad",
                 "Avocado Chicken Salad"
             ]
+        },
+        {
+            "title": "1/20 Falafel Salam",
+            "menu": [
+                "Always a surprise",
+                "Most likely:",
+                "Homemade hummus",
+                "Homemade babaghanouj",
+                "Greek salad",
+                "Purple slaw",
+                "olive shimmies",
+                "cod and prawn chimichuri entree ",
+                "Chicken or lamb",
+                "Pitas",
+                "Shakshuka"
+            ]
         }
     ]
 }
