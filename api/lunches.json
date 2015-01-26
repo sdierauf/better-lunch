@@ -299,6 +299,23 @@
                 "Pitas",
                 "Shakshuka"
             ]
+        },
+        {
+            "title": "1/27 Naansense",
+            "menu": [
+                "Curries:",
+                "Lamb Roganjosh (Marinated Lamb, cooked in a tomato yogurt sauce with aromatic spices. Mild spice)",
+                "",
+                "Entrée:",
+                "Butter Chicken (Marinated, Roasted Chicken cooked in a creamy tomato curry. Mild spice level)",
+                "Paneer Jalfrezie (Indian style cheese cooked in a masala sauce with red and green bell peppers. Medium spice)",
+                "",
+                "Side:",
+                "Basmati Rice",
+                "Chana Masala (Garbanzo beans in a tomato sauce with spices. Mild spice level)",
+                "Spinach Dal (Cooked red lentils with fresh spinach and spices. Mild spice level)",
+                "Methi Eggplant (Eggplant in a tomato yogurt sauce with fenugreek leaves. Mild spice level)"
+            ]
         }
     ]
 }
