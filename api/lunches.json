@@ -316,6 +316,19 @@
                 "Spinach Dal (Cooked red lentils with fresh spinach and spices. Mild spice level)",
                 "Methi Eggplant (Eggplant in a tomato yogurt sauce with fenugreek leaves. Mild spice level)"
             ]
+        },
+        {
+            "title": "2/3 La Bodega",
+            "menu": [
+                "Dominican Cuisine",
+                "-Puerco Asado (roasted pork)",
+                "-Chicken",
+                "-Jasmine Rice",
+                "-Pinto Beans",
+                "-Coleslaw and Avocado",
+                "-Plantain Chips",
+                "<a href=\"http://www.labodegaseattle.com/\">Website</a>"
+            ]
         }
     ]
 }
