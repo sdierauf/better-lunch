@@ -54,28 +54,31 @@ h3{
   margin-right: 20px;
   margin-left: 20px;
  /* box-shadow: 0 2px 3px #E0E0E0;*/
-  border-top: 2px solid rgba(0,0,0,.3);
-  border-bottom: 2px solid rgba(0,0,0,.3);
+  /*border-top: 2px solid rgba(0,0,0,.3);
+  border-bottom: 2px solid rgba(0,0,0,.3);*/
+  text-transform: uppercase;
   
 }
+
 a{
-  color: #3C5DAB;
-  border-bottom: 1px dotted black;
+  color: black;
+  /*border-bottom: 1px dotted black;*/
+  text-decoration: none;
+  text-transform: uppercase;
 }
 a:hover{
-  color:#EB1B71;
+  color:#EB1B71\;
 
 }
 .lunches p{
-  color:black;
+  color: white;
   font-family: "Avenir";
   text-align: left;
   padding-left: 25px;
   font-size: 16px; 
  
-
-
 }
+
 .lunches{
   width: 800px;
   height: auto;
