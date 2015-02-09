@@ -329,6 +329,17 @@
                 "-Plantain Chips",
                 "<a href=\"http://www.labodegaseattle.com/\">Website</a>"
             ]
+        },
+        {
+            "title": "2/10 Evergreens Salads",
+            "menu": [
+                "The Cobb ",
+                "Skinny Greek ",
+                "Dice Dice ",
+                "The Super Bowl ",
+                "Walk the Flank ",
+                "<a href=\"http://www.evergreens-salad.com/menu/\">Website</a>"
+            ]
         }
     ]
 }
