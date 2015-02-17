@@ -340,6 +340,18 @@
                 "Walk the Flank ",
                 "<a href=\"http://www.evergreens-salad.com/menu/\">Website</a>"
             ]
+        },
+        {
+            "title": "2/17 Island Soul",
+            "menu": [
+                "BBQ Pork Ribs",
+                "Curried Chicken",
+                "Coconut Corn Muffins",
+                "Collard Greens",
+                "Mashed Yams",
+                "Rice and Peas",
+                "Sweet Plantains"
+            ]
         }
     ]
 }
