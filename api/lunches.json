@@ -361,6 +361,19 @@
                 "Veggies",
                 "Salad"
             ]
+        },
+        {
+            "title": "3/3 El Camion",
+            "menu": [
+                "Taco Bar:",
+                "Pollo Asado",
+                "Carne Asada",
+                "Seasoned Pork",
+                "Fish",
+                "Veggie",
+                "Rice and Beans",
+                "Chips and Salsas"
+            ]
         }
     ]
 }
