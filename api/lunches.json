@@ -374,6 +374,20 @@
                 "Rice and Beans",
                 "Chips and Salsas"
             ]
+        },
+        {
+            "title": "3/10 Marination ",
+            "menu": [
+                "Miso Ginger Chicken Taco ",
+                "Spicy Pork Taco",
+                "Sexy Tofu Taco ",
+                "Aloha Sliders (Kahlua Pork)",
+                "Spam Sliders ",
+                "Kimchi Fried Rice ",
+                "Hawaiian Mac Salad ",
+                "Signature Slaw",
+                "<a href=\"http://www.marinationmobile.com/menu/\">Menu</a>"
+            ]
         }
     ]
 }
