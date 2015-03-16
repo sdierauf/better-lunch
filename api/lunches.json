@@ -388,6 +388,36 @@
                 "Signature Slaw",
                 "<a href=\"http://www.marinationmobile.com/menu/\">Menu</a>"
             ]
+        },
+        {
+            "title": "3/17 Chewaya Moroccan BBQ",
+            "menu": [
+                "Chicken kebabs",
+                "Organic ground beef kefta kebabs",
+                "Falafel",
+                "Traditional Greek pita",
+                "Hummus, Artichoke, Guacamole, Jalapeño dip",
+                "White Garlic Sauce",
+                "Parisian Kale Salad",
+                "Mediterranean Mixed Green Salad",
+                "<a href=\"http://chewaya.com/menu-items/\">Website</a>",
+                "<a href=\"http://www.yelp.com/biz/chewaya-authentic-moroccan-bbq-redmond>Yelp Reviews</a>"
+            ]
+        },
+        {
+            "title": "3/17 Chewaya Moroccan BBQ",
+            "menu": [
+                "Chicken kebabs",
+                "Organic ground beef kefta kebabs",
+                "Falafel",
+                "Traditional Greek pita",
+                "Hummus, Artichoke, Guacamole, Jalapeño dip",
+                "White Garlic Sauce",
+                "Parisian Kale Salad",
+                "Mediterranean Mixed Green Salad",
+                "<a href=\"http://chewaya.com/menu-items/\">Website</a>",
+                "<a href=\"http://www.yelp.com/biz/chewaya-authentic-moroccan-bbq-redmond\">Yelp Reviews</a>"
+            ]
         }
     ]
 }
