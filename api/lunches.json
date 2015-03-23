@@ -418,6 +418,21 @@
                 "<a href=\"http://chewaya.com/menu-items/\">Website</a>",
                 "<a href=\"http://www.yelp.com/biz/chewaya-authentic-moroccan-bbq-redmond\">Yelp Reviews</a>"
             ]
+        },
+        {
+            "title": "3/24 Snout & Co.",
+            "menu": [
+                "Slowly Roasted Mojo Pork",
+                "Cuban Black Beans (vegan)",
+                "Rice",
+                "Collard Greens (vegan)",
+                "Grilled Jerk Chicken with Yams",
+                "Smoked Tomatillo Coconut Sauce",
+                "Smoked Serrano Mango Sauce",
+                "Herbed Salad with Tomatoes and Cucumbers",
+                "<a href=\"http://www.snoutandco.com/food.html\">Website</a>",
+                "<a href\"http://www.yelp.com/biz/snout-and-co-seattle-2\">Yelp</a>"
+            ]
         }
     ]
 }
