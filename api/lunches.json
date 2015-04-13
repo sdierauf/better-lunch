@@ -460,6 +460,20 @@
                 "Cookies!",
                 "<a href=\"http://www.delicatusseattle.com/menu/\">Menu</a>"
             ]
+        },
+        {
+            "title": "Jemil's Big Easy",
+            "menu": [
+                "Jambalaya",
+                "Red beans and rice",
+                "Blackened Catfish",
+                "Blackened Chicken",
+                "Cornbread",
+                "Cajun Salad",
+                "Fried Okra",
+                "Beingets",
+                "<a href=\"http://jemilsbigeasy.com/menu.html\">Menu</a>"
+            ]
         }
     ]
 }
