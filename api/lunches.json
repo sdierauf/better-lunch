@@ -486,6 +486,30 @@
                 "Seasonal Fruit Platter",
                 ""
             ]
+        },
+        {
+            "title": "4/28 Michou",
+            "menu": [
+                "Roast Chicken Sandwich",
+                "Turkey Bacon Sandwich",
+                "Portobello Sandwich",
+                "Tomato and Brie Sandwich",
+                "ABBLT Sandwich",
+                "Roast Beef Sandwich",
+                "Italian Sandwich",
+                "Turkish Salad",
+                "Chef Salad",
+                "Spicy Chicken Salad",
+                "Asian Broccoli",
+                "Greek Quinoa",
+                "Beluga Lentil",
+                "Sicillian Pasta ",
+                "Roasted Garlic Penne",
+                "Beets",
+                "Mediterranean Roasted Eggplant",
+                "Avocado Chicken",
+                "Spanish Chicken Salad"
+            ]
         }
     ]
 }
