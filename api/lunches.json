@@ -510,6 +510,19 @@
                 "Avocado Chicken",
                 "Spanish Chicken Salad"
             ]
+        },
+        {
+            "title": "5/5 Cactus",
+            "menu": [
+                "Happy Cinco de Mayo!",
+                "",
+                "Guacamole, Chips and Salsas",
+                "Casa Salad",
+                "Rice and Beans",
+                "Chimayo Enchilada",
+                "Butternut Squash Enchilada",
+                "Chile Braised Brisket Enchilada"
+            ]
         }
     ]
 }
