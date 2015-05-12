@@ -523,6 +523,20 @@
                 "Butternut Squash Enchilada",
                 "Chile Braised Brisket Enchilada"
             ]
+        },
+        {
+            "title": "5/12 Bahn Thai",
+            "menu": [
+                "Fresh Spring Rolls",
+                "White Rice",
+                "Chicken Pad Thai",
+                "Tofu Pad Thai",
+                "Chicken Red Curry",
+                "Garlic Beef",
+                "<a href=\"http://www.bahnthaimenu.com/#\">Website</a>",
+                "<a href=\"http://www.yelp.com/biz/bahn-thai-restaurant-seattle\">Yelp</a>",
+                ""
+            ]
         }
     ]
 }
