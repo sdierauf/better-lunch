@@ -537,6 +537,21 @@
                 "<a href=\"http://www.yelp.com/biz/bahn-thai-restaurant-seattle\">Yelp</a>",
                 ""
             ]
+        },
+        {
+            "title": "6/2 Evergreens",
+            "menu": [
+                "Walk The Flank ",
+                "El Sombrero",
+                "El Sombrero with Chicken",
+                "Ceasar",
+                "Caesar with Chicken",
+                "Skinny Greek",
+                "Dont Stop be Vegan",
+                "Super Bowl",
+                "Blazin Asian",
+                "Wraps (chicken ceasar, El sombrero, Dice Dice Baby) "
+            ]
         }
     ]
 }
