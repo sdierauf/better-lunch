@@ -552,6 +552,18 @@
                 "Blazin Asian",
                 "Wraps (chicken ceasar, El sombrero, Dice Dice Baby) "
             ]
+        },
+        {
+            "title": "6/9 Dickey's BBQ",
+            "menu": [
+                "Pulled Pork",
+                "Beef Brisket",
+                "Spicy Cheddar Sausage",
+                "Caesar Salad",
+                "Barbecue Beans",
+                "Mac & Cheese",
+                "Green Beans with Bacon"
+            ]
         }
     ]
 }
