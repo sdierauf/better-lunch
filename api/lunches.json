@@ -596,6 +596,17 @@
                 "Japanese Style Curry with carrots, caramelized onions, potatoes served over rice",
                 "<a href=\"http://www.theboxonwheels.com/menu/\">Menu</a>"
             ]
+        },
+        {
+            "title": "7/7 Bitterroot BBQ",
+            "menu": [
+                "Pulled Pork",
+                "Braised Brisket",
+                "Baby Back Ribs",
+                "Ceasar Salad",
+                "Baked Beans",
+                "Glazed Carrots"
+            ]
         }
     ]
 }
