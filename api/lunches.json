@@ -607,6 +607,19 @@
                 "Baked Beans",
                 "Glazed Carrots"
             ]
+        },
+        {
+            "title": "7/14 Cedars ",
+            "menu": [
+                "Butter Chicken (Tender chicken simmered in a rich and smooth butter, tomato, and cream sauce, spiced with ginger and garlic)",
+                "Chicken Tikki Masala (A traditional Indian curry, cooked in a tomato- cream based sauce with turmeric, capsicum, fenugreek leaves with garlic and ginger.)",
+                "Madras Masala- Veg (Cooked in a sauce of tomatoes, roasted chilies, browned garlic, cumin, and sautéed onions)",
+                "Aloo Channa (Chickpeas and golden potatoes  slow cooked over a fire blended with spices and tomatoes) ",
+                "Mediterranean Salad ",
+                "Naan ",
+                "Basmati Rice ",
+                ""
+            ]
         }
     ]
 }
