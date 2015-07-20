@@ -620,6 +620,19 @@
                 "Basmati Rice ",
                 ""
             ]
+        },
+        {
+            "title": "7/21 Island Soul",
+            "menu": [
+                "BBQ Pork Ribs",
+                "Curried Chicken",
+                "Curried Vegetables",
+                "Coconut Corn Muffins",
+                "Collard Greens",
+                "Mashed Yams",
+                "Rice and Peas",
+                "Sweet Plantains"
+            ]
         }
     ]
 }
