@@ -633,6 +633,19 @@
                 "Rice and Peas",
                 "Sweet Plantains"
             ]
+        },
+        {
+            "title": "8th St. Mediterranean Grill",
+            "menu": [
+                "Green Salad",
+                "Falafel",
+                "Pita",
+                "Hummus",
+                "Chicken Shawarma",
+                "Beef Shawarma",
+                "Rice",
+                "Baba Ganoush"
+            ]
         }
     ]
 }
